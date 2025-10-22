@@ -138,6 +138,29 @@
     "text_encoding": "cpp",
     "typeinfo": "cpp",
     "variant": "cpp"
+},
+"code-runner.clearPreviousOutput": true,
+"code-runner.runInTerminal": true,
+"github.copilot.nextEditSuggestions.enabled": true,
+"liveServer.settings.donotShowInfoMsg": true,
+"terminal.integrated.enableMultiLinePasteWarning": "never",
+"github.copilot.enable": {
+  "*": false,
+  "plaintext": false,
+  "markdown": false,
+  "scminput": false,
+  "python": true
+},
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "files.autoSave": "afterDelay"
+"workbench.startupEditor": "none",
+"security.workspace.trust.untrustedFiles": "open",
+"explorer.confirmDelete": false,
+"files.autoSave": "afterDelay",
+// "editor.minimap.enabled": false,           // Hide the right Long Viewer
+"gitlens.ai.model": "vscode",
+"workbench.iconTheme": "vscode-icons",        // Icons
+"gitlens.ai.vscode.model": "copilot:gpt-4.1"
 }
